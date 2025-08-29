@@ -5,7 +5,7 @@ class Calculator:
     def get_wall(self):
         wall_length = float(input("wall length: "))
         wall_width = float(input("wall width: "))
-        self.walls.append(wall_length 
+        self.walls.append({"length" : wall_length, "width" : wall_width})
 
     def convert_to_mm(self):
         pass
