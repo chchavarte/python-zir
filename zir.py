@@ -1,3 +1,5 @@
 class Calculator:
-    pass
+    def __init__(self):
+
+
 
