@@ -12,3 +12,5 @@ class Calculator:
     
     def wall_area(self):
         pass
+
+wallc = Calculator()
